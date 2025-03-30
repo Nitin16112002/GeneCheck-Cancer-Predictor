@@ -32,11 +32,6 @@ This project applies the K-Nearest Neighbors (KNN) algorithm to predict cancer p
 | **F1-score**  | 93%                | 93%            | 93%     |
 | **Accuracy**  | -                  | -              | 93%     |
 
-## **Installation & Usage**
-### **1. Clone the Repository**
-```sh
-git clone https://github.com/your-username/Gene-Cancer-Prediction.git
-cd Gene-Cancer-Prediction
 
 
 ## **Conclusion**  
