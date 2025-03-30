@@ -2,7 +2,7 @@
 
 ## **Overview**
 This project applies the K-Nearest Neighbors (KNN) algorithm to predict cancer presence based on two genetic markers. The model demonstrates high accuracy and reliability in distinguishing between cancerous and non-cancerous cases.
-
+ 
 ## **Dataset**
 - **Total Samples:** 3,000  
 - **Features:**  
